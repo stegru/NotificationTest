@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "NotificationTest (Package)": {
+      "commandName": "MsixPackage",
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "win11-arm",
+      "authenticationMode": "Windows"
+    },
+    "NotificationTest (Unpackaged)": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "authenticationMode": "None",
+      "remoteDebugMachine": "win11-arm"
+    }
+  }
+}
